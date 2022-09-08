@@ -55,7 +55,7 @@ In this task you are going to add a small shelter (e.g. a small wooden hut) on t
 
 I often find it helps to work to a reference image when 3D modelling. You may wish to base your shack model on the following reference image, but you can choose to base it on another if you wish:
 
-IMAGE
+![A hut with a single door and window](https://github.com/UoY-IM-MPIE/mpie-p22-enhanced-terrain/blob/main/Instructions/hut.JPG)
 
 ## Task 3: Adding Props
 
