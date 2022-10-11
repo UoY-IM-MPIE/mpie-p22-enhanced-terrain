@@ -59,13 +59,19 @@ I often find it helps to work to a reference image when 3D modelling. You may wi
 
 ## Task 3: Adding Props
 
-To finish off your environment, add some props along the valley, and in and around your shelter. Consider choosing props that tell the player who lives in the hut and why they might be living on top of the mountain.
+To improve your environment, add some props along the valley, and in and around your shelter. Consider choosing props that tell the player who lives in the hut and why they might be living on top of the mountain.
 
 Try sourcing props for your environment by:
 
 - Creating them yourself in Maya
 - Looking in Unity’s standard assets packages
 - Downloading them from an online resource (e.g. Turbo Squid, Asset Store)
+
+## Task 4: Adding a Cave on the Path
+
+To finish things off, try adding a cave along the path that the user can walk into. The "Paint Holes" tool in the terrain editor will allow you to make an opening in your terrain. However, you'll notice that the edges of this opening are jagged, especically if the opening is on a steep face, and when you walk into it you fall down forever!
+
+For this final task, think about how you might solve these issues by applying a combination of the skills you've learned for terrain creation with those you've learned for making indoor scenes. Can you make a more aesthetically pleasing cave entrance, and then a cave area that you can walk into and explore?
 
 ## Optional Extensions
 
