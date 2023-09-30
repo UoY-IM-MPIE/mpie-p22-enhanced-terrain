@@ -51,9 +51,10 @@ Again, you may want to add an FPSController (included in the Standard Assets pac
 
 ## Task 2: Adding a Shelter
 
-In this task you are going to add a small shelter (e.g. a small wooden hut) on top of the high mountain that the path leads to. You can choose to create and texture this shelter in the 3D modelling package Maya and then import it into your Unity scene, using the polygon modelling approach that you were taught about last year.
-
-I often find it helps to work to a reference image when 3D modelling. You may wish to base your shack model on the following reference image, but you can choose to base it on another if you wish:
+In this task you are going to add a small shelter (e.g. a small wooden hut) on top of the high mountain that the path leads to. You can choose to do this in different ways: 
+- Use primitive objects to create a structure that resembles a small wooden hut. You can then apply different materials and textures to it, much like the terrain. 
+- Import a hut model for the Unity Asset Store. 
+- Create and texture this shelter in the 3D modelling package Maya and then import it into your Unity scene, using the polygon modelling approach that you were taught about last year. I often find it helps to work to a reference image when 3D modelling. You may wish to base your shack model on the following reference image, but you can choose to base it on another if you wish:
 
 ![A hut with a single door and window](https://github.com/UoY-IM-MPIE/mpie-p22-enhanced-terrain/blob/main/Instructions/hut.JPG)
 
@@ -61,7 +62,7 @@ I often find it helps to work to a reference image when 3D modelling. You may wi
 
 To improve your environment, add some props along the valley, and in and around your shelter. Consider choosing props that tell the player who lives in the hut and why they might be living on top of the mountain.
 
-Try sourcing props for your environment by:
+Like before, you can try sourcing props for your environment by:
 
 - Creating them yourself in Maya
 - Looking in Unity’s standard assets packages
