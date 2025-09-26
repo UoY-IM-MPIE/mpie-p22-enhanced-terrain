@@ -79,9 +79,10 @@ For this final task, think about how you might solve these issues by applying a 
 If you have completed task 3, then you should consider attempting the following tasks:
 
 - Create your own billboard grass texture in Photoshop, and import it into Unity for use in the terrain editor’s paint details tool. Tip: you will need to create a texture with a transparent background. https://www.youtube.com/watch?v=tfuzAwXmZOk
-- Use Unity’s tree creator to make your own custom tree model. You can find more information on using the tree creator: https://docs.unity3d.com/2018.4/Documentation/Manual/tree-FirstTree.html 
-- Explore how the ‘Add Detail Mesh’ option in the paint details tool can be used to add small rocks on and around the path up to the top of the highest mountain. See here for more details: https://docs.unity3d.com/2018.4/Documentation/Manual/terrain-Grass.html
+- Use Unity’s tree creator to make your own custom tree model. You can find more information on using the tree creator: https://docs.unity3d.com/6000.0/Documentation/Manual/tree-FirstTree.html
+- Explore how the ‘Add Detail Mesh’ option in the paint details tool can be used to add small rocks on and around the path up to the top of the highest mountain. See here for more details: https://docs.unity3d.com/6000.0/Documentation/Manual/terrain-Grass.html
 - Create a lake in your terrain by adding a water game object to your scene. You can find a selection of prefabs for creating water in Standard Assets/Environment/Water in the project
-- If you're interested in exploring terrain and environment creation further then I recommend working through this YouTube tutorial on creating an "African Environment". You'll need to install additional assets, but they are all free: : https://www.youtube.com/watch?v=Sz3sNXouvCs
+- If you're interested in exploring terrain and environment creation further then I recommend working through this YouTube tutorial. You'll need to install additional assets, but they are all free: : https://www.youtube.com/watch?v=ez-dzOffJyY
 - In this interview, Jane Ng who was an artist on Firewatch talks about how they used Unity to create the game and the issues that they had creating the environment: https://www.youtube.com/watch?v=ZYnS3kKTcGg
+
 
